@@ -9,3 +9,5 @@ Step 3: npm install or yarn install (paste this command in terminal)
 Step 4: npm start or yarn start (paste this command in terminal)
 
 Step 5: Open http://localhost:3000 to view it in the browser.
+
+Open live project: http://commitlist.s3-website.ap-south-1.amazonaws.com/
