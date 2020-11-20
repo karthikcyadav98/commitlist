@@ -1,1 +1,1 @@
-export const get_commit_list = 'https://api.github.com/repos/karthikcyadav98/starrepo/commits';
+export const get_commit_list = 'https://api.github.com/repos/karthikcyadav98/commitlist/commits';

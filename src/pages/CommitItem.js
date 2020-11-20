@@ -20,7 +20,7 @@ const CommitItems = ({item}) => {
 	console.log(item);
 	return (
 		<div>
-			<Grid container stackable style={{textAlign: 'left', borderBottom: '1px solid #E6E6E6'}}>
+			<Grid container stackable style={{textAlign: 'left', borderBottom: '1px solid #E6E6E6', padding: 10}}>
 				<Grid.Column width={12}>
 					<p style={{fontSize: 20, fontWeight: 'bold'}}>{item.commit.message}</p>
 					<p style={{fontSize: 15}}>
